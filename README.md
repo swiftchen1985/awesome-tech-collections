@@ -19,6 +19,7 @@
 	- [CoolShell.cn](http://coolshell.cn/): 陈皓大神的技术站点，也是笔者学生时期就开始阅读的站点
 	- [花钱的年华](http://calvin1978.blogcn.com/)： 开源Java框架SpringSide的作者-江南白衣的博客，有很多java相关的干货，非常值得阅读
 	- [后端技术杂谈](http://rowkey.me): 毛遂自荐，笔者自己的技术博客，主要讲述后端技术的一些实践、总结、思考等，以原创为主
+	- [从设计到部署](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese):微服务
 	
 - **值得订阅的纯技术微信公众号**: 纯技术分享的公众号，粗体字为微信号
 	- 高可用架构：**ArchNotes**，TimYang主办的公众号，包含很多架构实践方面的干货分享。
